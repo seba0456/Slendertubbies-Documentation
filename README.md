@@ -1,2 +1,2 @@
 # Documentation 
-Since TubbyLauncher was deprecated, I'm using this documentation inside my game. Feel free to commit changes to this repository and help improve Slendertubbies documentation.
+This is official repository for the Slendertubbies documentation. Feel free to contribute to the project and expand Slendertubbies Wiki.
