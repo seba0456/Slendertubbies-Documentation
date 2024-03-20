@@ -11,6 +11,7 @@ body {
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
+	margin-top: 5%;
 }
 
 #wrapper {
@@ -18,7 +19,6 @@ body {
 	max-width: 1200px;
 	margin: 0 auto;
 }
-
 
 header {
 	background-image: url(Images/newlogo.png);
@@ -166,11 +166,18 @@ footer {
 	cursor: default;
 	background-color: #3f5cb4;
 }
-.demoimage{
-    width: 500px;
-    height: auto;
+
+.demoimage {
+	width: 500px;
+	height: auto;
 }
-.demoimagehint{
-    width: 500px;
-    height: auto;
+
+.demoimagehint {
+	width: 500px;
+	height: auto;
+}
+
+a{
+	text-decoration: none;
+	color: #234447;
 }
